@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VertexAnimToolsetEditor-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Games\SB_OptiCrowd\Intermediate\Build\Win64\SB_OptiCrowdEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\Games\SB_OptiCrowd\Plugins\VertexAnimToolset\Intermediate\Build\Win64\UE4Editor\Development\VertexAnimToolsetEditor\Module.VertexAnimToolsetEditor.cpp.obj"
+"E:\Games\SB_OptiCrowd\Plugins\VertexAnimToolset\Intermediate\Build\Win64\UE4Editor\Development\VertexAnimToolsetEditor\Default.rc2.res"
+/OUT:"E:\Games\SB_OptiCrowd\Plugins\VertexAnimToolset\Intermediate\Build\Win64\UE4Editor\Development\VertexAnimToolsetEditor\UE4Editor-VertexAnimToolsetEditor-0001.lib"
